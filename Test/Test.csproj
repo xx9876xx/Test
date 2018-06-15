@@ -195,6 +195,7 @@
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="ActionModels\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
